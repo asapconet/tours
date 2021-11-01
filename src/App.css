@@ -1,0 +1,18 @@
+body {
+  background-color: rgb(219, 228, 236);
+  display: flex;
+  justify-content: center;
+}
+h1 {
+  font-size:xx-large;
+  text-transform: capitalize;
+}
+
+.underlining {
+  height: .3rem;
+  width: 10rem;
+  background-color: rgb(111, 166, 214);
+  border-radius: 1rem;
+  margin-top: -1rem;
+  margin-left: 5.2rem;
+}
