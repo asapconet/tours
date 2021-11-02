@@ -1,11 +1,16 @@
 import React from 'react'
 import './App.css';
+import Tours from './Tours'
 
-function App() {
+
+function App(props) {
   return (
     <div>
-      <h1>Check available tours</h1>
-      <div className='underlining'></div>
+      <div className="app-container">
+        <h1>Check available tours</h1>
+        <div className="underlining"></div>
+        <Tours />
+      </div>
     </div>
   );
 }
