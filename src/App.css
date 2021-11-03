@@ -19,6 +19,22 @@ img {
   height: 25rem;
 }
 
+.btn-container {
+  display: flex;
+  justify-content: center;
+  margin: 1rem;
+}
+
+.btn {
+  text-align: center;
+  background-color: transparent;
+  color: red;
+  width: 18rem;
+  height: 2.5rem;
+  text-transform: capitalize;
+    border: solid .1rem rgb(201, 74, 74);
+}
+
 .app-container {
   display: flex;
   flex-direction: column;
