@@ -68,7 +68,7 @@ const Tours = () => {
           </div>
         );
       })}
-      {/* <Tours tours={tours}/> */}
+      <Tours tours={tours}/>
     </>
   );
 };

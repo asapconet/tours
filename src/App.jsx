@@ -6,7 +6,8 @@ function App({ tours }) {
   return (
     <div>
       <div className="app-container">
-        <Tours tours={tours} />;
+      <h1>Big man just work lemme get my ass off this stuff</h1>
+        <Tours />;
       </div>
     </div>
   );
